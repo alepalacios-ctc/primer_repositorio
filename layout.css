@@ -1,0 +1,31 @@
+.hear{
+    background-color: crimson;
+    float: left;
+    height: 40px;
+    width: 100%;
+}
+.caja2{
+    float: left;
+    width: 25%;
+    height: 400px;
+    background-color: khaki;
+}
+.contenido{
+    float: left;
+    width: 75%;
+    height: 400px;
+    background-color: salmon;
+}
+.foster{
+    background-color: slateblue ;
+    float: left;
+    height: 50px;
+    width: 100%;
+}
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(21, 34, 155);
+    margin: 5px;
+    float: left;
+}

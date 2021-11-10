@@ -1,0 +1,28 @@
+body{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiO8APR9besca2_s3KutaGRy_wbleHUtWoUQ&usqp=CAU);
+    background-attachment: scroll;
+    width: 100%;
+    height: 100%;
+    font-family: 'Times New Roman', Times, serif;
+
+
+    }
+    h2{
+        text-align: center;
+        color: rgb(12, 247, 12);
+        font-size: 40px;
+    }
+    summary{
+        text-align: center;
+        color: rgb(222, 241, 248);
+    
+    }
+    p{
+        text-align: justify ;
+        color: rgb(224, 198, 222);
+    
+    }
+
+    .op{
+        margin:0px;
+    }

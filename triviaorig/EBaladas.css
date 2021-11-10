@@ -1,0 +1,57 @@
+.hear{
+    background-color: rgb(255, 254, 254);
+    width: 100%;
+    height: 10px;
+    float: left;
+    margin: 6px;
+    border: 7px rgb(5, 45, 58);
+}
+
+.h1{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    align-items: center;
+}
+
+.contenido{
+    float: left;
+    width: 78%;
+    height: 280px;
+    background-color: rgb(241, 235, 149);
+    margin:4px;
+    text-align: justify;
+    text-anchor: 4px;
+}
+
+
+.h2{
+    font-family: verdana;
+    text-align: center;
+    color: rgb(7, 7, 7);
+}
+
+.img2{
+    float:left;
+    width: 280px;
+    left: 40px;
+    margin: 8px grey;
+    border: 7px white;
+}
+ 
+
+img{
+    float:left;
+    width: 280px;
+    left: 40px;
+    margin: 8px grey;
+}
+
+.videofinal{
+    text-align: center;
+}
+
+
+
+
+
