@@ -1,0 +1,147 @@
+body{
+    background-image: linear-gradient(135deg,#8F190E,#A82E1C, #752E1C, #B81A14, #B45344, #5D2014, #4E2214, #9E3C23, #4B3027, #393027);
+    background-size: 500%;
+    animation: fanimado 10s infinite;
+    width: 100%;
+    height: 100%;
+    font-family: diseño
+}
+h1{
+    text-align: center;
+    color: rgb(12, 247, 12);
+}
+summary{
+    text-align: 1PX;
+    color: rgb(222, 241, 248);
+
+}
+
+.contenido{
+    float: left;
+    width: 78%;
+    height: 190px;
+    background-color: rgb(225, 235, 172);
+    margin:4px;
+    text-align: justify;
+    text-anchor: 4px;
+    margin-top: 14px;
+    padding: 10px;
+}
+p{
+    text-align: 1PX;
+    color: rgb(16, 38, 233);
+
+}
+img{
+    float: left;
+    margin: 40px;
+    margin-left: 2%;
+    height: 200px;
+}
+.op{
+    margin:0px;
+}
+body{
+    font-family: diseño;
+}
+.hear{
+        background-color: red;
+        float: left;
+        height: 40px;
+        width: 100%;
+}
+    .caja1{
+        background-color: rgb(165, 106, 145);
+        float: left;
+        height: 50px;
+        width: 80%;
+        margin-top: 50px;
+        margin-left: 200px;
+    }
+    
+    .cajaprincipal{
+        text-align: justify;
+        margin-top: 100px ;
+        margin-left: 30px ;
+        margin-right: 1px ;
+        margin-bottom: 1px;
+   
+    }
+    .texto{
+        text-align: justify;
+        margin-top: 100px ;
+        margin-left: 30px ;
+        margin-right: 1px ;
+        margin-bottom: 1px;
+   
+    }    
+    .caja2{
+        float: left;
+        width: 25%;
+        height: 200px;
+        background-color: rgb(173, 192, 196);
+        margin-left: 200px;
+    }
+    
+    .caja3{
+        
+        float: left;
+        width: 55%;
+        height: 200px;
+        background-color: rgb(209, 193, 139);
+        text-align: justify;
+      
+    }
+    .imagen1{
+        background: url(https://phoneky.co.uk/thumbs/screensavers/down/spiritual/allahampmu_lru9imuo.gif);
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        background-position: center;
+        margin: auto;
+        width: 200px;
+        height: 160px;
+    }
+    .imagen2{
+            background: url(https://c.tenor.com/kUyAazdwMYIAAAAC/allah-wave.gif);
+            background-repeat: no-repeat;
+            background-attachment: scroll;
+            background-position: center;
+            margin: auto;
+            width: 200px;
+            height: 160px;
+    }
+    .imagen3{
+        background: url(https://c.tenor.com/-2pDqL7pxAAAAAAC/nasserq-allah.gif);
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        background-position: center;
+        margin: auto;
+        width: 200px;
+        height: 160px;
+    }
+    @font-face {
+        font-family: diseño;
+        src: url(letra2.otf);
+    }
+    
+    h1{
+        font-family: diseño;
+    }
+    
+    p{
+        font-family: diseño;
+    }  
+
+    @keyframes fanimado {
+    
+        0%{
+            background-position: 0% 50%;
+        }
+        50%{
+            background-position: 100% 50%;
+        }
+        100%{
+            background-position: 0% 50%;
+        }
+    }
+    

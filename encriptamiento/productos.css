@@ -1,0 +1,139 @@
+@font-face {
+    font-family: arabeu;
+    src: url(letra2.ttf);
+}
+@font-face {
+    font-family: arabic;
+    src: url(Khodijah\ Free.otf);
+}
+.relative{
+    width: 100%;
+    height: 30%;
+    top: 0px;
+    position: absolute;
+    justify-content: center;
+    margin-top: 0px;
+}
+h1{
+    font-size: 60px;
+    font-family: arabic;
+    color: white;
+    text-align: center;
+}
+h2{
+    font-size: 30px;
+    text-align: center;
+    color: whitesmoke;
+}
+header{
+    width: 100%; 
+    height: auto;
+    position: relative;
+}
+video{
+    width: 1200px;
+    height: 760px;
+    left: 0;
+    top: 0;
+    min-height: 100%;
+    min-width: 100%;
+}
+.sombra{
+    width: 1336px;
+    height: 760px;
+    position: absolute;
+    background: rgba(0, 0, 0, 0.575);
+}
+
+
+.imagen1{
+    background: url(https://ae01.alicdn.com/kf/Hd195b0c8e13145899c9d3fd8ae201b73z/Sunspicems-Elegant-Algeria-Wedding-Jewelry-Sets-Women-Earring-Necklace-Cuff-Bracelet-Bangle-Arab-Gold-Color-Bijoux.jpg_220x220xz.jpg_.webp);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+    margin: auto;
+    width: 175px;
+    height: 180px;
+}
+
+
+.imagen2{
+    background: url(https://ae01.alicdn.com/kf/Hd262947a756d4b2e9713e7a144bd32a2o/CHENGXUN-Vintage-Maple-Leaves-Middle-East-Jewelry-Arab-Muslim-Islam-Ring-for-Men-Women-Retro-Allah.jpg_220x220xz.jpg_.webp);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+    margin: auto;
+    width: 175px;
+    height: 180px;
+}
+.imagen3{
+    background: url(https://ae01.alicdn.com/kf/Hef50fef4c6aa47fbbbba02fdc408346bq/Sunspicems-2021-Gold-Color-Morocco-Bride-Wedding-Jewelry-Sets-Crystal-Caftan-Belt-Bead-Necklace-Brooch-Drop.jpg_220x220xz.jpg_.webp);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+    margin: auto;
+    width: 175px;
+    height: 180px;
+}
+.imagen4{
+    background: url(https://ae01.alicdn.com/kf/H8b6310a8cedf4b2cba85d399e3a2842et/SHOUMAN-Multi-Later-Spinner-Stress-Reliever-Titanium-Steel-Arabic-Calendar-Number-Finger-Ring-Best-Gift-for.jpg_220x220xz.jpg_.webp);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+    margin: auto;
+    width: 175px;
+    height: 180px;
+}
+.botones {
+    display: flex;
+    flex-wrap: wrap;
+    top: 20px;
+    margin-top: 40px;
+    float: top;
+    
+    
+}
+.boton {
+    text-align: justify;
+    border-radius: 10px;
+    border: 1px solid black;
+    font-weight: 800;
+    display: block;
+    padding: 5px 10px;
+    margin: 5px auto;
+    width: 17%;
+   
+}
+
+a{
+    /*outline: 1px solid hotpink;*/
+    text-decoration: none;
+    background:  rgba(0, 0, 0, 0.575);
+    color: white;
+    text-align: center;
+    
+}
+a:hover {
+    background-image: linear-gradient(135deg, rgb(163, 71, 71), rgb(221, 221, 76));
+    background-size: 500%;
+    animation: fanimado 10s infinite;
+    color:rgb(32, 32, 32);
+}
+
+@keyframes fanimado {
+    
+    0%{
+        background-position: 0% 50%;
+    }
+    50%{
+        background-position: 100% 50%;
+    }
+    100%{
+        background-position: 0% 50%;
+    }
+}
+
+
+
+
+
